@@ -1,0 +1,22 @@
+{
+  "name": "hankhillbot",
+  "version": "1.0.0",
+  "description": "IRC bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnunley/HankHillBot.git"
+  },
+  "author": "not_a_seagull",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/johnnunley/HankHillBot/issues"
+  },
+  "homepage": "https://github.com/johnnunley/HankHillBot#readme",
+  "dependencies": {
+    "irc": "^0.5.2"
+  }
+}
